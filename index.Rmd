@@ -2,12 +2,12 @@
 title: "The Doctrine of Justification"
 author: "James Buchanan"
 date: "2020"
-description: "An Outline of its History in the Church and of its Exposition from Scripture"
+description: "An outline of the history of the doctrine of justification in the Church and an exposition of the doctrine itself from Scripture"
 params:
-  scans: ""
+  scans: "https://archive.org/details/doctrinejustifi00buchgoog/mode/2up"
   build: "1"
 cover-image: "cover.jpg"
-url: "https://warhornmedia.github.io/warhorn-classics-book-template/"
+url: "https://warhornmedia.github.io/buchanan-doctrine-of-justification/"
 output: 
   bookdown::gitbook:
     config:
