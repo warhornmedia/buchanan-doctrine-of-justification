@@ -1,8 +1,8 @@
 --- 
-title: "Book Template"
-author: "Warhorn Classics"
+title: "The Doctrine of Justification"
+author: "James Buchanan"
 date: "2020"
-description: "This book is a template for starting new Warhorn Classics book projects. It also contains some brief instructions for how to get started."
+description: "An Outline of its History in the Church and of its Exposition from Scripture"
 params:
   scans: ""
   build: "1"
@@ -15,10 +15,10 @@ output:
         scroll_highlight: yes
         before: |
           <li><a href="https://www.warhornmedia.com/"><img src="classics-template-files/images/warhornlogo.png" width="260"></a></li>
-          <li><a href="./">Book Template — Warhorn Classics</a></li>
+          <li><a href="./">The Doctrine of Justification</a></li>
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-      edit: https://github.com/warhornmedia/warhorn-classics-book-template/edit/master/%s
+      edit: https://github.com/warhornmedia/buchanan-doctrine-of-justification/edit/master/%s
 documentclass: book
 always_allow_html: yes
 site: bookdown::bookdown_site
