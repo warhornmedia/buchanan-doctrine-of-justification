@@ -46,19 +46,19 @@ Atterbury, Bishop, 143, 200.
 
 Augustine, The doctrine of, 88, 95, 112.
 
----------His use of the term \'Merits,\' 90.
+---------His use of the term 'Merits,' 90.
 
----------His use of the term \'Justification,\' 91.
+---------His use of the term 'Justification,' 91.
 
 Augsburg, Diet of, 127, 129.
 
----------\'Confession\' and \'Apology,\' 128.
+---------'Confession' and 'Apology,' 128.
 
 ---------Reply to, by Faber and Eckius, 128.
 
 BAIUS, 112, 146, 148.
 
-Barclay, Robert, \'Apology\' of, 169.
+Barclay, Robert, 'Apology' of, 169.
 
 Barlow, Bishop, 199.
 
@@ -76,7 +76,7 @@ Baxter, Richard, 176.
 
 Bellarmine, 142, 199, 213.
 
-Bennett, Dr. James, \'Justification as Revealed in Scripture,\' 13, 92, 215.
+Bennett, Dr. James, 'Justification as Revealed in Scripture,' 13, 92, 215.
 
 Bernard, A saying of, 92.
 
@@ -118,11 +118,11 @@ Carleton, Bishop, Reply to Bishop Montagu, 200.
 
 Cave, Dr., 201.
 
-Chalmers, Dr. T., on \'Justification by Faith,\' and \'Judgment according to Works,\' 238.
+Chalmers, Dr. T., on 'Justification by Faith,' and 'Judgment according to Works,' 238.
 
 Charles v., 131, 135.
 
-Chemnitz, \'Examen,\' 141, 142.
+Chemnitz, 'Examen,' 141, 142.
 
 Church of England, Articles of, 10.
 
@@ -134,7 +134,7 @@ Clemens Romanus, 83.
 
 Contarenus, 114.
 
-\'Counsels of Perfection,\' 106.
+'Counsels of Perfection,' 106.
 
 Covenant, The first, of Life, 19.
 
@@ -164,17 +164,17 @@ Downham, Bishop, 92, 142, 199.
 
 Du Pin, 131, 148.
 
-ECKIUS, Reply to Augsburg \'Confession,\' 128, 131.
+ECKIUS, Reply to Augsburg 'Confession,' 128, 131.
 
-Erasmus, Work of, on \'Concord in Religion,\' 130.
+Erasmus, Work of, on 'Concord in Religion,' 130.
 
-\'Essays and Reviews,\' 218.
+'Essays and Reviews,' 218.
 
-FABER, G. S., \'Primitive Doctrine of Justification,\' 12, 92, 93, 215.
+FABER, G. S., 'Primitive Doctrine of Justification,' 12, 92, 93, 215.
 
 ---------On the exercise of private judgment, 79.
 
-Faber and Eck, Reply to Melancthon\'s Confession, 128.
+Faber and Eck, Reply to Melancthon's Confession, 128.
 
 Faith, Function of, in Justification, 364, 379.
 
@@ -192,7 +192,7 @@ Fathers, the right use of their writings, 77.
 
 ---------Testimonies of, collected by Usher and Faber, 93.
 
-Fisher, E., author of \'Marrow of Modern Divinity,\' 182.
+Fisher, E., author of 'Marrow of Modern Divinity,' 182.
 
 Forbes, J., of Corse, 91.
 
@@ -202,7 +202,7 @@ Foxe, John, the Martyrologist, 143, 198.
 
 Fraser, of Brea, 187.
 
-Francis, St., \'Conformities of,\' 144.
+Francis, St., 'Conformities of,' 144.
 
 French Protestant Church, 174.
 
@@ -210,9 +210,9 @@ Friends, Society of, 168, 211.
 
 GENTILES, state of, 36, 47, 50, 60.
 
-Gill, Dr., Notes on Crisp\'s Sermons, 183.
+Gill, Dr., Notes on Crisp's Sermons, 183.
 
-God\'s chief end, 289, 312.
+God's chief end, 289, 312.
 
 Goodwin, John, 175.
 
@@ -250,7 +250,7 @@ History of the Doctrine, 1--219.
 
 ---------In the times of the Fathers and Scholastic Divines, 77.
 
----------The Protestant Doctrine not a \'novelty,\' 88, 93, 135.
+---------The Protestant Doctrine not a 'novelty,' 88, 93, 135.
 
 ---------At the Reformation, 100.
 
@@ -258,7 +258,7 @@ History of the Doctrine, 1--219.
 
 ---------In the Romish Church after the Reformation, 127.
 
----------Protestant Doctrine treated at a \'novelty,\' 128.
+---------Protestant Doctrine treated at a 'novelty,' 128.
 
 ---------Afterwards claimed as an old truth, 129, 138, 140.
 
@@ -394,7 +394,7 @@ Kingsley, Rev. C., 205.
 
 Knox, John, 196.
 
-Knox, Alexander, Esq., \'Remains,\' 11, 205, 211.
+Knox, Alexander, Esq., 'Remains,' 11, 205, 211.
 
 ---------Correspondence with Bishop Jebb, 11, 205.
 
@@ -414,7 +414,7 @@ Law, the, and the Gospel, 291.
 
 Legalism, natural tendency to, 153.
 
-\'Legal Fictions,\' 334.
+'Legal Fictions,' 334.
 
 Leibnitz, 148.
 
@@ -444,15 +444,15 @@ Melville, Andrew, 174.
 
 Melancthon, on works of supererogation, 99.
 
----------\'Confession\' and \'Apology,\' 128, 129.
+---------'Confession' and 'Apology,' 128, 129.
 
 ---------Remarks of, 130, 138, 155, 156, 157.
 
 ---------His Doctrine on Justification, 131, 194--7.
 
----------His \'Prolegomena\' on Justification, 197.
+---------His 'Prolegomena' on Justification, 197.
 
----------His \'Loci Communes,\' 197.
+---------His 'Loci Communes,' 197.
 
 Merit, Doctrine of, 99, 106, 142.
 
@@ -464,7 +464,7 @@ Merit of Christ, 321.
 
 Molinæus (du Moulin), 174.
 
-Mœhler on \'Symbolism,\' 145, 147, 199.
+Mœhler on 'Symbolism,' 145, 147, 199.
 
 Montagu, Bishop, Appeal of, 200, 201.
 
@@ -476,17 +476,17 @@ Neo-Platonic School of Theology, 205, 207, 211.
 
 Newhaven Theology, 190.
 
-Newman, Dr. J. H., \'Lectures on Justification,\' 13, 207.
+Newman, Dr. J. H., 'Lectures on Justification,' 13, 207.
 
----------\'Apologia pro Vita Sua,\' 13.
+---------'Apologia pro Vita Sua,' 13.
 
----------\'Essay on Development,\' 147.
+---------'Essay on Development,' 147.
 
----------\'Via Media,\' 213.
+---------'Via Media,' 213.
 
 OBEDIENCE OF CHRIST, active and passive, 307.
 
-O\'Brien, Bishop, \'Essays on Faith,\' 12, 92.
+O'Brien, Bishop, 'Essays on Faith,' 12, 92.
 
 Originality of the Gospel method of Justification, 405.
 
@@ -520,7 +520,7 @@ Pistorius, 131.
 
 Popery, Old and New, 143.
 
-Princeton \'Review\' and \'Essays,\' 190.
+Princeton 'Review' and 'Essays,' 190.
 
 Priesthood, a human, 109.
 
@@ -550,7 +550,7 @@ Regeneration and Justification simultaneous, 400, 403.
 
 Rhemish New Testament, 144.
 
-\'Righteousness, the, of God,\' 315, 317.
+'Righteousness, the, of God,' 315, 317.
 
 Ridley, 195, 196.
 
@@ -584,7 +584,7 @@ Stancari, 156.
 
 Stuart, Moses, 190.
 
-TAYLOR, ISAAC, \'Ancient Christianity, 13.
+TAYLOR, ISAAC, 'Ancient Christianity, 13.
 
 Tendencies, Natural, towards Legalism, or Antinomianism, 153, 157, 203.
 
@@ -594,7 +594,7 @@ Tilenus, D., 174, 175.
 
 Tillotson, Archbishop, 218.
 
-\'Tracts for the Times,\' 13, 204, 218.
+'Tracts for the Times,' 13, 204, 218.
 
 Traill, Rev. Robert, 14, 173.
 
@@ -608,7 +608,7 @@ Trinity, Doctrine of, revealed by the work of Redemption, 294.
 
 UNANIMITY of Reformers on Justification, 151.
 
-\'Unitas Fratrum,\' 181.
+'Unitas Fratrum,' 181.
 
 Universal Redemption, 187.
 
@@ -622,7 +622,7 @@ Vega, 144.
 
 Vergerio, Bishop, converted by answering Reformers, 135.
 
-\'Via Media\' between Popish and Protestant Doctrine, 205, 213.
+'Via Media' between Popish and Protestant Doctrine, 205, 213.
 
 Vincentius Lirinensis, Rule of, 147.
 
@@ -638,7 +638,7 @@ Wesley, John, 180, 218.
 
 Westminster Doctrine of Justification, 411.
 
-Whately, Archbishop, \'Errors of Romanism,\' 204.
+Whately, Archbishop, 'Errors of Romanism,' 204.
 
 Whitfield, George, 218.
 
@@ -656,4 +656,3 @@ ZINZENDORF, Count, 181.
 
 Zuingle, 194.
 
-\-\-\-\--
