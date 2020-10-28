@@ -67,6 +67,26 @@ NIGHT THEME
   	font-feature-settings: "liga", "clig";
 }
 
+.poetry ul {
+    list-style-type: none;
+    font-style: italic;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+.poetry li p {
+    margin-bottom: 0 !important;
+}
+
+.poetry > ul > li {
+    margin-left: 3em;
+    text-indent: -3em;
+}
+
+.poetry > ul > li > ul > li {
+    margin-left: -1em;
+}
+
 /* opening line style */
 h1 + p::first-line, h2 + p::first-line {
 	/*all small caps workaround*/
@@ -133,6 +153,11 @@ section#section-.normal {
     -moz-box-shadow: inset 0 0 10px 10px #1aa9ab;
     -webkit-box-shadow: inset 0 0 10px 10px #1aa9ab;
     box-shadow: inset 0 0 10px 10px #1aa9ab;
+}
+
+.with-summary #header {
+    width: calc(100vw - 300px);
+    left: calc(-50vw + 50% + 150px);
 }
 
 .color-theme-1 #header { /* sepia title header */
@@ -277,8 +302,8 @@ a.anchor-section::before {
     text-align: center;
     padding: 0;
     z-index: 1;
-    top: 20%;
-    left: 160%;
+    top: 90%; /* drop tooltip underneath link icon */
+    right: calc(-55px + 50%); /* center tooltip horizontally on link icon */
     box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 20%);
     opacity: 0;
     transition: opacity .2s;
@@ -286,13 +311,22 @@ a.anchor-section::before {
 
 .hasAnchor a.anchor-section:hover::after {
     visibility: visible;
-    transition-delay: 1s;
+    transition-delay: .5s;
     opacity: .7;
 }
 
 h1.hasAnchor a.anchor-section {
     font-size: .7em;
     transform: translateY(.4em);
+}
+
+.book .book-body .page-wrapper .page-inner section.normal > div ~ div h1.hasAnchor a.anchor-section {
+    font-size: inherit;
+    transform: none;
+}
+
+.hasAnchor { /* keep tooltips from forcing horizontal scroll */
+    padding-right: 80px;
 }
 
 /*--*/
@@ -329,8 +363,10 @@ h2 {
 	font-weight: 700;
 	line-height: 1.5em;
 	letter-spacing: .6px;
-	border-left: .15em solid #1aa9ab;
-	padding-left: .5em;
+/*    position: relative;*/
+/*    left: -1.2em;*/
+	border-left: .2em solid #1aa9ab;
+	padding-left: 1em;
 }
 
 /*sepia mode h2 rule*/
@@ -407,6 +443,16 @@ h3 .header-section-number {
     padding-right: .5em;
 }
 
+.editorial::before {
+    content: "[";
+    font-style: normal;
+}
+
+.editorial::after {
+    content: "]";
+    font-style: normal;
+}
+
 .book .book-body .page-wrapper .page-inner section.normal > div ~ div h1 + p::first-line, .book .book-body .page-wrapper .page-inner section.normal > div ~ div h2 + p::first-line {
     text-transform: none;
     font-variant: normal;
@@ -454,6 +500,10 @@ h3 .header-section-number {
 
 .book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active > a {
 	color: #1aa9ab;
+}
+
+.book .book-summary ul.summary li a span, .book.color-theme-1 .book-summary ul.summary li a, .book.color-theme-1 .book-summary ul.summary li span, .book.color-theme-2 .book-summary ul.summary li a, .book.color-theme-2 .book-summary ul.summary li span {
+    color: inherit;
 }
 
 li.divider + li.chapter {
@@ -678,6 +728,10 @@ pre code {
 	letter-spacing: .0125em;
 }
 
+.rtBibleRef {
+    white-space: nowrap;
+}
+
 /* SEPIA MODE */
 /*
 .color-theme-1 ~ .rtTooltip div {
@@ -710,3 +764,7 @@ pre code {
 }
 
 /*------*/
+
+.nobreak {
+    white-space: nowrap;
+}
