@@ -2,7 +2,8 @@ bookdown::gitbook:
   css: classics-template-files/css/warhorn-classics.css
   split_by: rmd
   config:
-    search: no
+    search:
+      engine: fuse
     fontsettings:
       theme: white
       family: serif
