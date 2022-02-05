@@ -4,10 +4,10 @@
 %
 \documentclass[
 ]{book}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -41,7 +41,8 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -121,7 +122,7 @@
 \makeatother
 
 \frontmatter
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 
@@ -172,9 +173,9 @@ Scanned images of this book (our authoritative source) are available \href{https
 \setcounter{enumi}{-1}
 \tightlist
 \item
-  \textbf{Current status:} --\textgreater{} Unstarted - Empty project files created, but that's it.
+  Unstarted - Empty project files created, but that's it.
 \item
-  Rough - Metadata entered, computer-generated text from scans entered. Unstructured, and likely to include many errors.
+  \textbf{Current status:} --\textgreater{} Rough - Metadata entered, computer-generated text from scans entered. Unstructured, and likely to include many errors.
 \item
   Cleaned - Text has been structured, footnotes and endnotes linked, and extra line-breaks, hyphens, page numbers and other artifacts removed.
 \item
@@ -1280,7 +1281,7 @@ The sources of information on the subject are either general or special. Some wo
 
 To the first class belong the Scriptures of the Old and New Testaments, which must ever have the first place assigned to them, as being inspired records, both of the divine revelations which were vouchsafed from time to time to the Church, and of the faith and worship which were maintained in it from the beginning. A sound exposition of Scripture, which should follow the historical course of Revelation from its commencement to its close in the sacred canon, would be the best history of both.
 
-The `Magdeburg Centuriators,'---viz., M. Flacius Illyricus, Joannes Wigandus, Matthæus Judex, Basilius Faber, and others who were associated with them,---were induced to write the History of the Church anew by the conviction, that previous historians had not given due prominence to the doctrinal truths of Scripture, especially to the doctrine of Justification; and they have collected valuable materials for its history, both under the Old dispensation and the New. Two of their number,---Joannes Wigandus and Matthæus Judex,---published separately from their great work, in 1563, a thick quarto volume, entitled, `SYNTAGMA, seu Corpus Doctrinœ ex Veteri Testamento tantùm Collectum,' in which they collect together, under distinct heads, the great truths which are common to both Testaments; and treat `De Evangelio,' p.~944, `De Justificatione Peccatoris coram Deo," p.~962, 'De Fide,' p.~1003, `De Bonis Operibus,' p.~1019, and other cognate topics. In their larger work, the Centuriators give the history of the doctrine under the New Testament dispensation, but not continuously; the passages which relate to it must be collected from the account of each century. Century I., Book i. c.~iv., includes the teaching of our Lord, pp.~9--111, and of the Apostles, pp.~219--278, `De Justificatione Hominis coram Deo;' and the same topic is resumed in each successive century.
+The `Magdeburg Centuriators,'---viz., M. Flacius Illyricus, Joannes Wigandus, Matthæus Judex, Basilius Faber, and others who were associated with them,---were induced to write the History of the Church anew by the conviction, that previous historians had not given due prominence to the doctrinal truths of Scripture, especially to the doctrine of Justification; and they have collected valuable materials for its history, both under the Old dispensation and the New. Two of their number,---Joannes Wigandus and Matthæus Judex,---published separately from their great work, in 1563, a thick quarto volume, entitled, `SYNTAGMA, seu Corpus Doctrinœ ex Veteri Testamento tantùm Collectum,' in which they collect together, under distinct heads, the great truths which are common to both Testaments; and treat `De Evangelio,' p.~944, `De Justificatione Peccatoris coram Deo,'' p.~962, 'De Fide,' p.~1003, `De Bonis Operibus,' p.~1019, and other cognate topics. In their larger work, the Centuriators give the history of the doctrine under the New Testament dispensation, but not continuously; the passages which relate to it must be collected from the account of each century. Century I., Book i. c.~iv., includes the teaching of our Lord, pp.~9--111, and of the Apostles, pp.~219--278, `De Justificatione Hominis coram Deo;' and the same topic is resumed in each successive century.
 
 The two works of Buddeus,---`Historia Ecclesiastica Veteris Testamenti,' and `Ecclesia Apostolica,'---embrace the teaching of both Testaments. Four admirable `Exercitations,' by Witsius, give the history of the opinions which prevailed among the Gentiles and the Jews; also the doctrine which was taught by the Apostles: `Miscell. Sacra,' vol.~ii. pp.~668--752. They are entitled, respectively,---`De Theologia Gentilium in Negotio Justificationis,' pp.~668--697,---`De Theologia Judæorum in Negotio Justificationis,' pp.~698--721,---`De Controversiis quæ Apostolorum ætate in Ecclesia Christiana circa Justificationem ortæ sunt,' pp.~721--731,---`De Mente Pauli in Negotio Justificationis,' pp.~732--752. These dissertations were occasioned by Dr.~Cave's `Antiquitates Apostolicæ,' on that work being translated and published on the Continent; and were designed as an answer to it. Dr.~Cave's opinion was, that the doctrine, as taught by the Apostles, excluded Justification by ceremonial observances, and left it to depend entirely on Faith; but that this Faith, which is the only condition of the New Covenant, is not any special grace, having an office or function distinct from that of other graces, but is rather comprehensive of them all; and that, therefore, works of evangelical obedience are not excluded from the ground of our acceptance with God. To this class of works may be added President Edwards' `History of Redemption.'
 
