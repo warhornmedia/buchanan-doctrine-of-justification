@@ -4,7 +4,7 @@
 ## Notes to the Introduction {-}
 
 
-###### NOTE 1, p. 9 {- #en.intro.01}
+###### [NOTE 1, p. 9](#en.intro.01.backlink) {- #en.intro.01}
 
 THE personal experience of the Reformers throws much light on the origin, and causes, of the Reformation.
 
@@ -31,7 +31,7 @@ The experience of Calvin was similar to that of Luther. 'The Reformation was not
 'Then he fell down, exclaiming, "Poor and wretched, I throw myself on the mercy which Thou hast shown us in Christ Jesus; I enter that only harbour of Salvation." He applied to the study of Scripture, and everywhere he found Christ. "O Father," he said, "His sacrifice has appeased Thy wrath; His blood has washed away my impurities; His Cross has borne my curse; His death hath atoned for me.... Thou hast placed Thy Word before me like a torch, and Thou hast touched my heart, in order that I should hold in abomination all other merits save that of Jesus." Calvin's conversion had been long and slowly ripening; and yet, in one sense, the change was instantaneous. "When I was the obstinate slave of the superstitions of Popery," he says, "and it seemed impossible to drag me out of the deep mire, God by a sudden conversion subdued me, and made my heart obedient to His Word." '---Ib. vol. i. pp. 525--530.
 
 
-###### NOTE 2, p. 9 {- #en.intro.02}
+###### [NOTE 2, p. 9](#en.intro.02.backlink) {- #en.intro.02}
 
 Luther on the Epistle to the Galatians, English Translation (A.D. 1575), pp. 175, 176. Another testimony, equally clear and strong, may be quoted from the same work; for although it abounds in bold, and sometimes unguarded, statements, and is neither a learned nor a critical exposition of the Epistle, yet as a popular statement of Gospel truth, delivered first in the pulpit, and designed for the instruction of his congregation at Wittemberg, it is one of the noblest and freshest utterances which ever proceeded from the heart of a Christian divine. Mr. Ward ventured to say of it in his 'Ideal of a Christian Church' (p. 172), that 'the Commentary, considered intellectually, as a theological effort, is perhaps one of the feeblest and most worthless productions ever written;' but those who have considered Archdeacon Hare's estimate of Mr. Ward's competency to sit in judgment upon it, will probably attach more weight to the testimony of John Bunyan, who says of it, 'I do prefer this book of M. Luther on the Galatians, excepting the Holy Bible, before all the books that ever I have seen, as most fit for a wounded conscience.'---Hare's Vindication of Luther, 2d Ed. p. 155.
 
@@ -44,7 +44,7 @@ Luther sets the doctrine of Justification by the blood of Christ through faith, 
 'When the Gospel lifted up its voice in the days of the Reformation, the people listened. It spoke to them---of God, Sin, Condemnation, Pardon, Everlasting Life,---in a word, of Christ. The human soul discovered that this was what it wanted; and was touched, captivated, and finally renewed.'---D'Aubigné, History of the Reformation in the Time of Calvin, vol. ii. p. 399. See also p. 583.
 
 
-###### NOTE 3, p. 14 {- #en.intro.03}
+###### [NOTE 3, p. 14](#en.intro.03.backlink) {- #en.intro.03}
 
 The titles of the works mentioned in the text, and the editions of them which will be referred to, are the following:---
 
@@ -65,7 +65,7 @@ Griffith's 'Reply to Dr. Newman's Lectures,' commended by Bishop Daniel Wilson, 
 Dr. J. H. Newman, 'Apologia pro Vita Sua,' 1864.
 
 
-###### NOTE 4, p. 15 {- #en.intro.04}
+###### [NOTE 4, p. 15](#en.intro.04.backlink) {- #en.intro.04}
 
 Robert Traill (of London), 'A Vindication of the Protestant Doctrine of Justification,' Works, vol. i. p. 321. Reprinted by the Free Church Committee on Cheap Publications.
 
@@ -73,7 +73,7 @@ Robert Traill (of London), 'A Vindication of the Protestant Doctrine of Justific
 ## NOTES TO LECTURE I {-}
 
 
-###### NOTE 1, p. 17 {- #en.p1.01}
+###### [NOTE 1, p. 17](#en.p1.01.backlink) {- #en.p1.01}
 
 Many years ago, Bishop O'Brien announced his intention to prepare a History of the Doctrine of Justification; but that intention has not yet been carried into effect, and there is scarcely any work in the English language which can be said to supply the want. It is in every respect desirable, that one so thoroughly competent for the task, in point both of ability and learning, should take up this comprehensive subject, which can only be treated cursorily in a series of Lectures like the present, and would require an entire volume for its illustration.
 
@@ -97,7 +97,7 @@ All the general histories of the Church may be consulted, such as Dr. Kurtz's 'H
 
 The special sources of information, in regard to the state of the doctrine at particular eras, will be referred to in connection with each of the great controversies which have arisen in regard to it. But full information cannot be obtained by merely reading an historical narative; and recourse must be had to two or three of the best writers on each side of every discussion, as it passes under review.
 
-###### NOTE 2, p. 21  {- #en.p1.02}
+###### [NOTE 2, p. 21](#en.p1.02.backlink)  {- #en.p1.02}
 
 These various opinions are represented respectively by the following writers:---The first by Dr. Taylor of Norwich, in his 'Scripture Doctrine of Original Sin,' and his 'Key to the Apostolic Writings,' which are answered by President Edwards in his 'Great Christian Doctrine of Original Sin,' Works, vol. ii. pt. ii. sec. ii. The second by Henry Dodwell, in his 'Epistolary Discourse, proving that the Soul is naturally Mortal, but immortalized by its union with the Divine Baptismal Spirit, imparted only by the Bishops;' which was answered by Dr. S. Clarke in his 'Letter to Mr. Dodwell.' It has been recently revived, in a different form, by Mr. Edward White, in his work entitled, 'Life in Christ' (1846)---which is directed to prove that 'Immortality is the peculiar privilege of the regenerate.' The third by many modern writers, who make spiritual death to consist entirely in sin, as a subjective moral evil, and overlook the wrath and curse of God on account of past transgressions. On this subject, see the profound treatise of Dr. Thomas Goodwin, 'An Unregenerate Man's Guiltiness before God in respect of Sin and Punishment,' Works, vol. x. pp. 1--56, Nichol's Edition.
 
