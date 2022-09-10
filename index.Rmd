@@ -6,7 +6,7 @@ description: "An outline of the history of the doctrine of justification in the 
 params:
   pubinfo: "Originally published as “This Is An Empty Book” in *Warhorn Classics Anthology* (Bayly, McNeilly, Weeks, et al, 2020), 219–283."
   scans: "https://archive.org/details/doctrinejustifi00buchgoog/mode/2up"
-  build: "1"
+  build: "2"
 cover-image: "cover.jpg"
 url: "https://warhornmedia.github.io/buchanan-doctrine-of-justification/"
 output: 
