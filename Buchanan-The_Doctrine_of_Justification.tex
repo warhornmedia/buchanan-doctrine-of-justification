@@ -63,6 +63,10 @@
 % DEFINE PHYSICAL DOCUMENT SETTINGS HD
 % media settings
 \usepackage[paperwidth=5.5in, paperheight=8.5in]{geometry}
+\geometry{left=.5in}
+\geometry{right=.5in}
+\geometry{bottom=.75in}
+\geometry{top=.75in}
 
 % define link colors
 \usepackage{hyperref}
@@ -74,16 +78,23 @@
     urlcolor=WarhornTeal,
 }
 
-% Not sure what this does
+% Start of default stuff from bookdown
+% format tables for a book
 \usepackage{booktabs}
+
+% typeset theorems
 \usepackage{amsthm}
+
+% fixes spacing or something with theorems, I think
 \makeatletter
 \def\thm@space@setup{%
   \thm@preskip=8pt plus 2pt minus 4pt
   \thm@postskip=\thm@preskip
 }
+\makeatother
+% End of default stuff from bookdown
 
-% Insert book cover first and format title page after that?
+% Insert book cover first and format title page after that
 \usepackage{titling}
 \usepackage{pdfpages}
 \IfFileExists{./cover.pdf}{
@@ -94,6 +105,7 @@
       \newcommand{\myCover}{./cover.png}}{}
     }
   }
+\makeatletter
 \@ifundefined{myCover}
 {}
 {
@@ -102,17 +114,18 @@
 \usepackage{atbegshi}% http://ctan.org/pkg/atbegshi
 \AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}}
 }
-\clearpage\pagenumbering{roman}
+\makeatother
 
 % poetry styling
 \newenvironment{poetry}[0]{\par\leftskip=2em\rightskip=2em}{\par\medskip}
 
 % specify fonts
-\setmainfont{Calluna}
-\newfontfamily\greekfont[Script=Greek]{LiberationSerif}
+\usepackage{babel} 
+\babelfont[*Latin]{rm}{Calluna}
+\babelprovide[import]{greek}
+\babelfont[*greek]{rm}{Baskerville}
 
-\makeatother
-
+%specify that what comes next is frontmatter, thus page nums are roman numerals
 \frontmatter
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
@@ -133,8 +146,7 @@
 \begin{document}
 \maketitle
 
-\mainmatter
-\pagenumbering{roman}
+
 
 {
 \setcounter{tocdepth}{1}
@@ -203,8 +215,7 @@ For more information on our editorial commitments and process, please \href{http
 
 We hope this book is a blessing to you. If it is, please \href{https://warhornmedia.com/give}{make a one-time or recurring contribution} right now, sponsor a book from our upcoming list, or volunteer your proofreading or technical skills to help produce more content. Contact \href{mailto:lucas@beggarsborn.com}{Lucas Weeks} to get involved.
 
-\clearpage
-\setcounter{page}{1}\pagenumbering{arabic}
+\mainmatter
 
 \hypertarget{introduction}{%
 \chapter*{Introduction}\label{introduction}}
